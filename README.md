@@ -1,4 +1,5 @@
 # Counter-for-Twitch
+Coded in VB.NET
 when we want to count but our fingers are too tired
 
 
